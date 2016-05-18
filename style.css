@@ -1,0 +1,16 @@
+p {
+    color:#1634a1;
+    font-size:12px;
+    text-decoration:line-through;
+}
+h1 {
+	text-transform:uppercase;
+	color:#888888;
+}
+h2{
+	color:#888888;
+	text-decoration:underline;
+}
+body{
+	font-family:sans-serif;
+}
