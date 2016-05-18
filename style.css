@@ -5,10 +5,19 @@ p {
 }
 h1 {
 	text-transform:uppercase;
-	color:#888888;
+	color:#003300;
+	background-color:#888888;
+	margin:20px;
+	padding:40px;
+	border-style:dashed;
+    border-width:5px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
 }
 h2{
-	color:#888888;
+	color:#004400;
+	background-color:#888888;
 	text-decoration:underline;
 }
 body{
